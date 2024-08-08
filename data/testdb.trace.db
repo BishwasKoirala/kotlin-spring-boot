@@ -1,0 +1,24 @@
+2024-08-08 23:49:43.646561+09:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "CREATE TABLE IF NOT EXISTS message([*]"; expected "identifier"; SQL statement:
+CREATE TABLE IF NOT EXISTS message( [42001-224]
+2024-08-08 23:50:01.129236+09:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "CREATE TABLE IF NOT EXISTS message([*]"; expected "identifier"; SQL statement:
+CREATE TABLE IF NOT EXISTS message( [42001-224]
+2024-08-08 23:52:15.512037+09:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "CREATE TABLE IF NOT EXISTS message([*]"; expected "identifier"; SQL statement:
+CREATE TABLE IF NOT EXISTS message( [42001-224]
+2024-08-08 23:52:49.890061+09:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "CREATE TABLE IF NOT EXISTS message([*]"; expected "identifier"; SQL statement:
+CREATE TABLE IF NOT EXISTS message( [42001-224]
+2024-08-08 23:53:40.584609+09:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "CREATE TABLE IF NOT EXISTS message([*]"; expected "identifier"; SQL statement:
+CREATE TABLE IF NOT EXISTS message( [42001-224]
+2024-08-08 23:54:07.857437+09:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "CREATE TABLE IF NOT EXISTS message([*]"; expected "identifier"; SQL statement:
+CREATE TABLE IF NOT EXISTS message( [42001-224]
+2024-08-08 23:54:37.363177+09:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "CREATE TABLE IF NOT EXISTS message([*]"; expected "identifier"; SQL statement:
+CREATE TABLE IF NOT EXISTS message( [42001-224]
+2024-08-08 23:55:44.473209+09:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "CREATE TABLE IF NOT EXISTS message([*]"; expected "identifier"; SQL statement:
+CREATE TABLE IF NOT EXISTS message( [42001-224]
