@@ -22,3 +22,18 @@ CREATE TABLE IF NOT EXISTS message( [42001-224]
 2024-08-08 23:55:44.473209+09:00 jdbc[3]: exception
 org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "CREATE TABLE IF NOT EXISTS message([*]"; expected "identifier"; SQL statement:
 CREATE TABLE IF NOT EXISTS message( [42001-224]
+2024-08-10 00:02:49.376524+09:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found; SQL statement:
+SELECT "MESSAGE"."ID" AS "ID", "MESSAGE"."TEXT" AS "TEXT" FROM "MESSAGE" [42102-224]
+2024-08-10 00:02:52.094659+09:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found; SQL statement:
+SELECT "MESSAGE"."ID" AS "ID", "MESSAGE"."TEXT" AS "TEXT" FROM "MESSAGE" [42102-224]
+2024-08-10 00:03:19.018865+09:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found; SQL statement:
+SELECT "MESSAGE"."ID" AS "ID", "MESSAGE"."TEXT" AS "TEXT" FROM "MESSAGE" [42102-224]
+2024-08-10 00:06:15.565584+09:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found; SQL statement:
+SELECT "MESSAGE"."ID" AS "ID", "MESSAGE"."TEXT" AS "TEXT" FROM "MESSAGE" [42102-224]
+2024-08-10 00:06:33.119018+09:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found; SQL statement:
+SELECT "MESSAGE"."ID" AS "ID", "MESSAGE"."TEXT" AS "TEXT" FROM "MESSAGE" [42102-224]
